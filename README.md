@@ -1,56 +1,50 @@
 # T24 Programming
 
-## Lesson I - Getting started with InfoBasic(jbc)
+![https://mathisi.io](./images/mathisi-logo.png)
 
-The purpose of this lesson is to give you an overview on how T24 programming is done.
+## About this course
 
-### Step 1: WRITE your program
+The purpose of this course is to provide _to practical knowledge and skills on "T24 programming"_ to help professionals working with T24 core banking system start solving some real challenges.
 
-Using any code editor of choice create a file called `HelloProg.b` on your computer and add the following lines of code:
+Programming experience in any other language is not a must, but it will help you to master the concepts that will be taught here on _"InfoBasic or jbc"_, the programming language of T24 core banking system.
 
-```basic
-PROGRAM HelloProg
-    CRT "Hello there!"
-END
-```
+This is a beginner to intermediate course. This means that some of the advanced concepts will not be discussed here. However the knowledge you will gain will help you understand _"T24 CBS"_ and how to solve real challenges.
 
-Line 1 we have PROGRAM and the name of our program. This should be the name of the file without extension. 
-*In most of cases, we will be writing* `SUBROUTINE` *instead of* `PROGRAM`. *Subroutines run inside T24 while programs run on jshell.*
+> _The projects that will develop together will be relatively small but they will be solving real-world challenges. For some, this is going to be an opportunity to improve their knowledge of "finance and banking"._
 
-### Step 2: PUSH or Copy your code to T24 Server
+## Course Content
 
-Push your source code to the server using git `git` or `ftp` (depending on what is available to you. You can also `copy` and `paste` your source code into a file on the server with the same name.
-Make sure the file is created in your local `.BP` folder (eg. `MATHISI.BP`)
+### Lesson 1 - Getting started
 
-### Step 3: COMPILE your source code file
+- Common steps in T24 programming: _write, compile and catalog_
+- First program in InfoBasic: `HelloProg.b`
 
-Use `BASIC [FOLDER_NAME] HelloProg.b` program to compile your source code: 
+### Lesson 2 - Syntax and Key features of InfoBasic
 
-```jsh
-jsh t24 ~ -->BASIC MATHISI.BP HelloProg.b
-HelloProg.b
-BASIC_13.c
-Source file HelloProg.b compiled successfully
-```
+- Variables
+- Operators: assignment, comparison, arithmetic
+- Multi-value and system variables
+- Statements and Functions
+- **Project 1: 28/36 rule**
 
-### Step 3: CATALOG your program
+### Lesson 3 - Control Flow
 
-Any T24 program needs to be catalogued before it can run. Use `CATALOG [FOLDER_NAME] HelloProg.b`:
+- If and If...else Statement
+- CASE Statement
+- Loops: For and While
+- GOTO and Labels
+- **Project 2: Mortgage Calculator**
 
-```jsh
-jsh t24 ~ -->CATALOG MATHISI.BP HelloProg.b
-HelloProg
-Object HelloProg cataloged successfully
-```
+### Lesson 4: Subroutines and Functions
 
-### Step 4: RUN your program
+- Difference between Subroutine and Function
+- Rules for writing subroutines
+  **Project 2: Mortgage Calculator - improved**
 
-To run your program, simply type the name of the program `HelloProg` from the `jsh` prompt:
+### Lesson 5: Working with Files
 
-```jsh
-jsh t24 ~ -->HelloProg
-Hello there!
-```
+### Lesson 6: OFS
 
-As you can see, our message **"Hello there!"** was printed on the console.
+### Lesson 7: Template programming
 
+### Lesson 8: T24 Integration with other systems
