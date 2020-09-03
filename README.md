@@ -14,37 +14,26 @@ This is a beginner to intermediate course. This means that some of the advanced 
 
 ## Course Content
 
-### Lesson 1 - Getting started
+* [Getting started with InfoBasic(jbc)](./wiki/Getting-started)
+* Key Features of InfoBasic
+  * [Syntax](./wiki/Syntax)
+  * [Variables and Data Types](./wiki/Variables-and-Data-Types)
+  * [Assignment and Comparison Operators](./wiki/Operators)
+  * [Arithmetic Operations](./wiki/Arithmetics)
+  * [Multi Value](./wiki/Multi-value)
+  * [Statements and Functions](./wiki/Statements-and-Functions)
+* Control Flow
+  * [If and If...else Statement](./wiki/If-Else)
+  * [CASE Statement](./wiki/Case)
+  * [Loops: For and While](./wiki/Loops)
+  * [GOTO and Labels](./wiki/Labels)
+* Subroutines and Functions
+  * [Subroutine Vs Functions](./wiki/Subroutine-Vs-Functions)
+  * [Structure of Subroutine](./wiki/Structure-of-Subroutine)
+  * [Subroutines](./wiki/Subroutines)
+  * [Functions](./wiki/Functions)
+  * [Working with Files](./wiki/Files)
+* [OFS](./wiki/OFS)
+* [Template Programming](./wiki/Template-Programming)
+* [T24 Integration with other Systems](./wiki/Integration)
 
-- Common steps in T24 programming: _write, compile and catalog_
-- First program in InfoBasic: `HelloProg.b`
-
-### Lesson 2 - Syntax and Key features of InfoBasic
-
-- Variables
-- Operators: assignment, comparison, arithmetic
-- Multi-value and system variables
-- Statements and Functions
-- **Project 1: 28/36 rule**
-
-### Lesson 3 - Control Flow
-
-- If and If...else Statement
-- CASE Statement
-- Loops: For and While
-- GOTO and Labels
-- **Project 2: Mortgage Calculator**
-
-### Lesson 4: Subroutines and Functions
-
-- Difference between Subroutine and Function
-- Rules for writing subroutines
-  **Project 2: Mortgage Calculator - improved**
-
-### Lesson 5: Working with Files
-
-### Lesson 6: OFS
-
-### Lesson 7: Template programming
-
-### Lesson 8: T24 Integration with other systems
