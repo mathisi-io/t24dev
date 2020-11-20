@@ -1,16 +1,14 @@
-PROGRAM MTD.Forex
+PROGRAM TestCallJ
 
-    class_name = "io.mathisi.Forex"
-    method_name = "calculate"
-    param = "USD]2349.45"
+    class_name = "io.mathisi.test.Greeting"
+    method_name = "hello"
+    param = "Anne Smith"
 
-    CALLJ class_name, method_name, param SETTING amount_fcy ON ERROR
+    CALLJ class_name, method_name, param SETTING ret ON ERROR
         err = SYSTEM(0)
-        CRT "Error(": err :")"
+        CRT "Error code ": err
         RETURN
     END
 
-    PRINT "EUR 2349.45 = USD ": amount_fcy
-
-    RETURN
+    CRT "Received from java: ": ret
 END
