@@ -1,15 +1,13 @@
-PROGRAM DTICalculator
+    SUBROUTINE CalculateDti(gross_income, total_debts, dti)
 
 *------------------------------------------------------------------
 *  Program to calculate the Debt-to-Income ratio
 *------------------------------------------------------------------  
 *  Developer: Aaron Niyonzima(@mathisi_io)
-*  Date     : 03/09/2020
+*  Date     : 01/11/2020
 *  Version  : 0.0.1
 *-------------------------------------------------------------------
 
-    gross_income = 3479               ;* monthly income in LCY
-    debt_repay_amt = 548.89           ;* total debt payment(monthly)
-    dti = debt_repay_amt / gross_income
-    CRT "Your DTI ratio is ": dti * 100 :"%"
+    dti = total_debts / gross_income
+    RETURN
 END
