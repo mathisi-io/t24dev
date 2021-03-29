@@ -1,6 +1,6 @@
 # T24 Programming
 
-![https://mathisi.io](./images/mathisi-logo.png)
+![https://mathisi.io](https://github.com/mathisi-io/t24dev/wiki/images/mathisi-logo.png)
 
 ## About this course
 
@@ -15,35 +15,35 @@ This is a beginner to intermediate course. This means that some of the advanced 
 ## Course Content
 
 - [Home](https://github.com/mathisi-io/t24dev/wiki)
-- [Getting started with InfoBasic(jbc)](./Getting-started)
+- [Getting started with InfoBasic(jbc)](https://github.com/mathisi-io/t24dev/wiki/Getting-started)
 - Key Features of InfoBasic
-  - [Variables and Data Types](./Variables-and-Data-Types)
-  - [Comments](./Comments)
-  - [Assignment and Comparison Operators](./Operators)
-  - [Arithmetic Operations](./Arithmetics)
-  - [Multi Value](./Multi-value)
-  - [Statements and Functions](./Statements-and-Functions)
+  - [Variables and Data Types](https://github.com/mathisi-io/t24dev/wiki/Variables-and-Data-Types)
+  - [Comments](https://github.com/mathisi-io/t24dev/wiki/Comments)
+  - [Assignment and Comparison Operators](https://github.com/mathisi-io/t24dev/wiki/Operators)
+  - [Arithmetic Operations](https://github.com/mathisi-io/t24dev/wiki/Arithmetics)
+  - [Multi Value](https://github.com/mathisi-io/t24dev/wiki/Multi-value)
+  - [Statements and Functions](https://github.com/mathisi-io/t24dev/wiki/Statements-and-Functions)
 - Control Flow
-  - [If and If...else Statement](./If-Else)
-  - [CASE Statement](./Case)
-  - [Loops: For and While](./Loops)
-  - [GOSUB and Labels](./Labels)
+  - [If and If...else Statement](https://github.com/mathisi-io/t24dev/wiki/If-Else)
+  - [CASE Statement](https://github.com/mathisi-io/t24dev/wiki/Case)
+  - [Loops: For and While](https://github.com/mathisi-io/t24dev/wiki/Loops)
+  - [GOSUB and Labels](https://github.com/mathisi-io/t24dev/wiki/Labels)
 - Subroutines and Functions
-  - [Subroutine Vs Functions](./Subroutine-Vs-Functions)
-  - [Structure of Subroutine](./Structure-of-Subroutine)
-  - [Subroutines](./Subroutines)
-  - [Functions](./Functions)
-  - [Working with Files](./Files)
-- [OFS](./OFS)
-- [Template Programming](./Template-Programming)
-- [T24 Integration with other Systems](./Integration)
+  - [Subroutine Vs Functions](https://github.com/mathisi-io/t24dev/wiki/Subroutine-Vs-Functions)
+  - [Structure of Subroutine](https://github.com/mathisi-io/t24dev/wiki/Structure-of-Subroutine)
+  - [Subroutines](https://github.com/mathisi-io/t24dev/wiki/Subroutines)
+  - [Functions](https://github.com/mathisi-io/t24dev/wiki/Functions)
+  - [Working with Files](https://github.com/mathisi-io/t24dev/wiki/Files)
+- [OFS](https://github.com/mathisi-io/t24dev/wiki/OFS)
+- [Template Programming](https://github.com/mathisi-io/t24dev/wiki/Template-Programming)
+- [T24 Integration with other Systems](https://github.com/mathisi-io/t24dev/wiki/Integration)
 - T24 Business Training
-  - [Customer and Accounts](./cu-ac)
-  - [Funds Transfer](./funds-transfer)
-  - [AA Module](./aa)
+  - [Customer and Accounts](https://github.com/mathisi-io/t24dev/wiki/cu-ac)
+  - [Funds Transfer](https://github.com/mathisi-io/t24dev/wiki/funds-transfer)
+  - [AA Module](https://github.com/mathisi-io/t24dev/wiki/aa)
 - T24 Navigation Training
-  - [Classic UI](./navigation-classic)
-  - [Browser UI](./navigation-browser)
+  - [Classic UI](https://github.com/mathisi-io/t24dev/wiki/navigation-classic)
+  - [Browser UI](https://github.com/mathisi-io/t24dev/wiki/navigation-browser)
 - T24 Administration Training
-  - [Temenos Connectors](./Temenos-Connectors)
-  - [Close of Business(COB)](./cob)
+  - [Temenos Connectors](https://github.com/mathisi-io/t24dev/wiki/Temenos-Connectors)
+  - [Close of Business(COB)](https://github.com/mathisi-io/t24dev/wiki/cob)
