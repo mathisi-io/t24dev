@@ -1,0 +1,5 @@
+COMMON /GREETING.SVC/ fn_cust,
+f_cust,
+cust_rec,
+err,
+sel_list
