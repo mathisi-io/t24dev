@@ -1,4 +1,4 @@
-    PROGRAM MTD.TestProg
+PROGRAM MTD.TestProg
 
     CRT @(-1)
     PRINT "Enter the customer Id: "

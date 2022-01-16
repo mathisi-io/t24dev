@@ -1,5 +1,4 @@
-    FUNCTION DTI(gross_income, total_debts)
-
+FUNCTION DTI(gross_income, total_debts)
 *------------------------------------------------------------------
 *  Function to calculate the Debt-to-Income ratio
 *------------------------------------------------------------------  

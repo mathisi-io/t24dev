@@ -1,4 +1,4 @@
-    PROGRAM Intro
+PROGRAM Intro
 
     name = 'Anne Smith'
     company = "mathisi.io"

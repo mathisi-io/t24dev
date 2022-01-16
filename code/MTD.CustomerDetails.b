@@ -1,4 +1,4 @@
-    SUBROUTINE MTD.CustomerDetails(cust_id, cust_name, cust_residence)
+SUBROUTINE MTD.CustomerDetails(cust_id, cust_name, cust_residence)
 *------------------------------------------------------------------
 * Mainline routine to fetch the details of customers
 *------------------------------------------------------------------

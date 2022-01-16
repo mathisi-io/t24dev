@@ -1,5 +1,4 @@
-    SUBROUTINE CalculateDTI(gross_income, total_debts, dti)
-
+SUBROUTINE CalculateDTI(gross_income, total_debts, dti)
 *------------------------------------------------------------------
 *  Subroutine to calculate the Debt-to-Income ratio
 *------------------------------------------------------------------  

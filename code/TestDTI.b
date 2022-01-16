@@ -1,4 +1,4 @@
-    PROGRAM TestDTI
+PROGRAM TestDTI
 
     PROMPT "Enter your gross income: "
     INPUT gross_income
