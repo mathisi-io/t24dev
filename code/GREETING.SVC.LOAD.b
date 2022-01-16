@@ -1,4 +1,4 @@
-    SUBROUTINE GREETING.SVC.LOAD
+SUBROUTINE GREETING.SVC.LOAD
 *------------------------------------------------------------------
 * Performs initialization and file opening
 *------------------------------------------------------------------

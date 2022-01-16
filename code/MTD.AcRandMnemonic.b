@@ -1,4 +1,4 @@
-    SUBROUTINE MTD.AcRandMnemonic
+SUBROUTINE MTD.AcRandMnemonic
 *------------------------------------------------------------------
 * Auto New content Routine to populaite AC>MNEMONIC with 
 * randomly generated value(eg ABCD1234XY)

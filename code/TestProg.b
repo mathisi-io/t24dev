@@ -1,4 +1,4 @@
-    PROGRAM TestProg
+PROGRAM TestProg
 
     customers = '100434,111217,100485,100289,100588,100489'
     CHANGE ',' TO @FM IN customers

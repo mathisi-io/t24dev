@@ -1,4 +1,4 @@
-    SUBROUTINE GREETING.SVC.SELECT
+SUBROUTINE GREETING.SVC.SELECT
 *------------------------------------------------------------------
 * Prepares a file containing all the IDs to be processed
 *------------------------------------------------------------------

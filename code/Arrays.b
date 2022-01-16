@@ -1,4 +1,4 @@
-    PROGRAM Arrays
+PROGRAM Arrays
 
     name    = 'David Doe'
     company = "mathisi.io"
@@ -25,7 +25,6 @@
 
     CRT @(-1)
     !PRINT cust_name : " requested ": curr :" ": amount : " on ": int_rate * 100 :"%": " for ": terms / 12 :" years."
-
 
     * --------------------------
     * Dimensioned arrays
